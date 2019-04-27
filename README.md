@@ -7,14 +7,14 @@ Vapaée - worker proposal 2
 
 ## Intro
 
-Hello, everybody. Mi name is [Viterbo](https://steemit.com/introduceyourself/@viterbo/i-am-an-entrepreneur-and-i-m-going-to-build-a-dapp-over-eos) and if you don't know me already from the Telegram Telos groups I'm responsible for the [Cards & Tokens](http://cardsandtokens.com) Dapp that will run on Telos, and also I'm the creator of [Vapaée.io](https://vapaee.io) Telos first DEX already deployed on mainnet to try (in alpha version with fake tokens).    
+Hello, everybody. Mi name is [Viterbo](https://steemit.com/introduceyourself/@viterbo/i-am-an-entrepreneur-and-i-m-going-to-build-a-dapp-over-eos) and if you don't know me already from the Telegram Telos groups I'm responsible for the [Cards & Tokens](http://cardsandtokens.com) platform that will run on Telos, and also I'm the creator of [Vapaée.io](https://vapaee.io) Telos first DEX already deployed on mainnet (in alpha version with fake tokens to test without risks).    
 Please [login with scatter](https://vapaee.io/exchange/account/) and try it.
 
-This [Vapaée.io](https://vapaee.io) DEX was planned as a submodule of the [Cards & Tokens](http://cardsandtokens.com) platform (that covers the "Tokens" part) and bring a lot of token services to other Dapps and users (including token exchanhe). Although it had low priority, [something made me change my mind](https://steemit.com/telos/@viterbo/vapaee-first-telos-dex) and I decide to start on this module.
+This [Vapaée.io](https://vapaee.io) DEX was planned as a submodule of the [Cards & Tokens](http://cardsandtokens.com) platform (that covers the "Tokens" part) and bring a lot of token services to other Dapps and users (including token exchange). Although it had low priority, [something made me change my mind](https://steemit.com/telos/@viterbo/vapaee-first-telos-dex) and I decide to start on this module.
 
 ## Budget Summary
 
-This worker proposal is for 2 cycles of 200K TLOS each of which only 20K of the first cycle will be sold in the market, the rest will be hold as personal future investment and, hopefully, will never be sold, but used as currency.
+This worker proposal is for **2 cycles of 200K TLOS each**, of which only 20K of the first cycle will be sold in the market, the rest will be hold as personal future investment and, hopefully, will never be sold, but used as currency.
 
 - Cycle 1
   - Covers the develoment costs of the Premium version of Vapaée.io (my personal revenue)
