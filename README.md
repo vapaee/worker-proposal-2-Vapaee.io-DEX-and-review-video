@@ -14,16 +14,14 @@ This [Vapaée.io](https://vapaee.io) DEX was planned as a submodule of the [Card
 
 ## Budget Summary
 
-This worker proposal is for **2 cycles of 200K TLOS each**, of which only 20K of the first cycle will be sold in the market, the rest will be hold as personal future investment and, hopefully, will never be sold, but used as currency.
+This worker proposal is for **2 cycles of 200K TLOS each**. Only 20K of the first cycle will be sold in the market, the rest will be hold as personal future investment and, hopefully, will never be sold, but used as currency.
 
-- Cycle 1
-  - Covers the develoment costs of the Premium version of Vapaée.io (my personal revenue)
-  - Plus one review video of Cards & Tokens, Vapaée.io and Telos by [Louis Thomas](https://www.youtube.com/channel/UCpceefaJ9vs4RYUTsO9Y3FA) from UK.
+- Cycle 1 - 200K TLOS
+  - Develoment of the **Premium** version of [Vapaée.io](https://vapaee.io) (my personal revenue)
+  - Plus one review video of [Cards & Tokens](http://cardsandtokens.com), [Vapaée.io](https://vapaee.io) and Telos by [Louis Thomas](https://www.youtube.com/channel/UCpceefaJ9vs4RYUTsO9Y3FA) from UK.
 
-- Cycle 2
-  - Covers the develoment costs of the Deluxe version of Vapaée.io (also personal revenue)
-
-
+- Cycle 2 - 200K TLOS
+  - Develoment of the **Deluxe** version of [Vapaée.io](https://vapaee.io) (also personal revenue)
 
 ## Versiones
 - 3 versiones
