@@ -3,7 +3,7 @@
 Vapaée - worker proposal 2
 --------------------------
 
-# Financing Vapaee.io DEX development and its review video.
+# Financing Vapaée DEX development and its review video.
 
 ## Intro
 
